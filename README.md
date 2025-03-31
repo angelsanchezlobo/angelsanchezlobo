@@ -38,17 +38,31 @@
     <img alt="Git" src="https://img.shields.io/badge/Git-9CC4FF.svg?logo=git&logoColor=white">
     <img alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-9CC4FF.svg?logo=visual-studio-code&logoColor=white">
   </p>
+  <br/>
+  <br/>
 
-  <h3 style="">GitHub Stats</h3>
-  <a href="https://github.com/angelsanchezlobo">
-    <img src="https://github-readme-stats.vercel.app/api?username=angelsanchezlobo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=9cc4ff&icon_color=9cc4ff&text_color=FFFFFF&bg_color=1E1E1E" alt="GitHub Stats">
-  </a>
 
-  <h3 style="">🎧</h3>
+<div>
   <a href="https://open.spotify.com/user/jlvse4q04bjq52gfc21836cak?si=6905e56a83994de8">
     <img src="https://github-readme-remake.vercel.app/api/spotify" alt="Spotify">
   </a>
 </div>
+
+  <br/>
+  <br/>
+
+
+<div>
+ <a href="https://github.com/angelsanchezlobo">
+    <img src="https://github-readme-stats.vercel.app/api?username=angelsanchezlobo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=9cc4ff&icon_color=9cc4ff&text_color=FFFFFF&bg_color=1E1E1E" alt="GitHub Stats">
+  </a>
+
+  <a href="https://github.com/angelsanchezlobo">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelsanchezlobo&layout=compact&bg_color=1E1E1E&text_color=FFFFFF&title_color=9CC4FF" alt="Top Languages"/>
+  </a>
+</div>
+
+
 
 <br>
 <div align="center">
