@@ -12,13 +12,7 @@
     <a href="mailto:angelsanlobo@gmail.com">
       <img alt="Email" src="https://img.shields.io/badge/Email-9CC4FF?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
-    <a href="https://instagram.com/tu_usuario" target="_blank">
-      <img alt="Instagram" src="https://img.shields.io/badge/Instagram-9CC4FF?style=for-the-badge&logo=instagram&logoColor=white"/>
-    </a>
-    <a href="https://medium.com/@tu_usuario" target="_blank">
-      <img alt="Medium" src="https://img.shields.io/badge/Medium-9CC4FF?style=for-the-badge&logo=medium&logoColor=white"/>
-    </a>
-    <a href="https://dev.to/tu_usuario" target="_blank">
+    <a href="https://dev.to/angelsanchezlobo" target="_blank">
       <img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-9CC4FF?style=for-the-badge&logo=dev.to&logoColor=white"/>
     </a>
   </div>
