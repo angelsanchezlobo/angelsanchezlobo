@@ -57,5 +57,6 @@
 </div>
 
 <br>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=angelsanchezlobo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<div>
+  [![trophy](https://github-profile-trophy.vercel.app/?username=angelsanchezlobo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
