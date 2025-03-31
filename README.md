@@ -1,7 +1,12 @@
 <div align="center">
   <img src="./github-header-image.png" alt="Banner" width="100%"/>
-  <h2 style="">Heyyo, I'm <a href="https://github.com/angelsanchezlobo" target="_blank" style="color: #9CC4FF;">Angel Sanchez Lobo</a>!</h2>
-  
+
+  <br/>
+    <br/>
+
+  <div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&pause=1000&color=FFFFFF&center=true&width=435&lines=Hey%2C+I'm+Angel+Sanchez+Lobo;Fullstack+Developer;Getting+better+every+day;Seek+for+greatness;Obsessive+Bodybuilder;Commitment+to+Fitness%2C+Commitment+to+Code;Building+Websites+%26+Building+Muscles" alt="Typing SVG" /></a>
+  </div>
   <div>
     <a href="https://linkedin.com/in/angelsanchezlobo" target="_blank">
       <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-9CC4FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
