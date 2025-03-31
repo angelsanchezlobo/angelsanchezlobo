@@ -24,7 +24,7 @@
   
   <br/>
 
-  <h3 ">Tech Stack</h3>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&pause=1000&color=FFFFFF&center=true&repeat=false&width=435&lines=Tech+Stack" alt="Typing SVG" /></a>
   <p>
     <img alt="C#" src="https://img.shields.io/badge/C%23-9CC4FF.svg?logo=csharp&logoColor=white">
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-9CC4FF.svg?logo=typescript&logoColor=white">
@@ -56,8 +56,9 @@
   <br/>
   <br/>
 
-
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&pause=1000&color=FFFFFF&center=true&repeat=false&width=435&lines=Github+Stats" alt="Typing SVG" /></a>
 <div>
+ 
  <a href="https://github.com/angelsanchezlobo">
     <img src="https://github-readme-stats.vercel.app/api?username=angelsanchezlobo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=9cc4ff&icon_color=9cc4ff&text_color=FFFFFF&bg_color=1E1E1E" alt="GitHub Stats">
   </a>
@@ -66,10 +67,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelsanchezlobo&layout=compact&bg_color=1E1E1E&text_color=FFFFFF&title_color=9CC4FF" alt="Top Languages"/>
   </a>
 </div>
-
-
-
-<br>
+<br/>
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=angelsanchezlobo&theme=radical" alt="GitHub Achievements"/>  </a>
