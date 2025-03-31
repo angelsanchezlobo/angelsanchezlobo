@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Aakarsh-B/trying-repos/blob/master/Colorful%20Simple%20Science%20Class%20Education%20Presentation.png" alt="Banner" width="100%"/>
+  <img src="./github-header-image.png" alt="Banner" width="100%"/>
   <h2 style="">Heyyo, I'm <a href="https://github.com/angelsanchezlobo" target="_blank" style="color: #9CC4FF;">Angel Sanchez Lobo</a>!</h2>
   
   <div>
