@@ -5,7 +5,7 @@
     <br/>
 
   <div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&pause=1000&color=FFFFFF&center=true&width=435&lines=Hey%2C+I'm+Angel+Sanchez+Lobo;Fullstack+Developer;Getting+better+every+day;Seek+for+greatness;Obsessive+Bodybuilder;Commitment+to+Fitness%2C+Commitment+to+Code;Building+Websites+%26+Building+Muscles" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&pause=1000&color=FFFFFF&center=true&width=435&lines=Hey%2C+I'm+Angel+Sanchez+Lobo;Fullstack+Developer;Getting+better+every+day;Obsessive+Bodybuilder+and+Developer;Seek+for+greatness;Building+Websites+%26+Building+Muscles" alt="Typing SVG" /></a>
   </div>
   <div>
     <a href="https://linkedin.com/in/angelsanchezlobo" target="_blank">
