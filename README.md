@@ -47,14 +47,9 @@
   <br/>
 
 
-<div>
-  <a href="https://open.spotify.com/user/jlvse4q04bjq52gfc21836cak?si=6905e56a83994de8">
-    <img src="https://github-readme-remake.vercel.app/api/spotify" alt="Spotify">
-  </a>
-</div>
 
-  <br/>
-  <br/>
+
+
 
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&pause=1000&color=FFFFFF&center=true&repeat=false&width=435&lines=Github+Stats" alt="Typing SVG" /></a>
 <div>
@@ -63,13 +58,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=angelsanchezlobo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=9cc4ff&icon_color=9cc4ff&text_color=FFFFFF&bg_color=1E1E1E" alt="GitHub Stats">
 </a>
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=angelsanchezlobo&theme=github-dark&hide_border=true&background=1E1E1E&stroke=9CC4FF&ring=9CC4FF&fire=9CC4FF&currStreakLabel=9CC4FF&currStreakNum=9CC4FF&sideNums=9CC4FF&sideLabels=FFFFFF&dates=FFFFFF" alt="Angel Sanchez Lobo" />
-</p>
-
 </div>
-<br/>
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=angelsanchezlobo&theme=onedark&margin-w=10&margin-h=10" alt="GitHub Achievements"/>
-</div>  
+
+<div>
+    <a href="https://open.spotify.com/user/jlvse4q04bjq52gfc21836cak?si=6905e56a83994de8">
+    <img src="https://github-readme-remake.vercel.app/api/spotify" alt="Spotify">
+  </a>
+</div>
